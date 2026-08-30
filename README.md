@@ -1,4 +1,6 @@
 # apna-college
 this is my first repo
 <br>
-author - tarun
+author - tarun phulara
+git status
+
